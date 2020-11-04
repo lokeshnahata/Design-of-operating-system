@@ -1,0 +1,11 @@
+total 0
+drwxrwxrwx 0 ubuntu ubuntu 4096 Oct  3 09:18 .
+drwxrwxrwx 0 ubuntu ubuntu 4096 Oct  3 08:52 ..
+drwxrwxrwx 0 ubuntu ubuntu 4096 Oct  3 08:44 dir2
+-rw-rw-rw- 1 ubuntu ubuntu   52 Oct  3 09:17 filelist1
+-rw-rw-rw- 1 ubuntu ubuntu   51 Oct  3 08:57 file3
+-rw-rw-rw- 1 ubuntu ubuntu   41 Oct  3 09:17 filelist
+-rw-rw-rw- 1 ubuntu ubuntu   40 Oct  3 09:00 reginfo
+-rw-rw-rw- 1 ubuntu ubuntu   34 Oct  3 09:07 personalinfo
+-rw-rw-rw- 1 ubuntu ubuntu   11 Oct  3 08:55 markinfo
+-rw-rw-rw- 1 ubuntu ubuntu    0 Oct  3 09:18 filelist3
